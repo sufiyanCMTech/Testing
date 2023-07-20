@@ -30,7 +30,9 @@ class MainActivity : AppCompatActivity() {
         bilding.button.setOnClickListener {
             getimage()
         }
-        println("thank you so much for proving me tutorial ")
+        println("thank you so much for proving me tutorial")
+       print("that great")
+        println("thanks one more time")
     }
 
     fun getimage(){
